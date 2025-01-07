@@ -10,4 +10,4 @@ public class calculator{
         System.out.println(b);
 
     }
-}
+} 
